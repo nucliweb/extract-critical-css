@@ -1,0 +1,28 @@
+{
+  "name": "extract-critical-css",
+  "version": "0.1.0",
+  "description": "Extract Critical CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nucliweb/extract-critical-css.git"
+  },
+  "keywords": [
+    "css",
+    "critical",
+    "css"
+  ],
+  "author": "Joan León <joan.leon@gmail.com> (https://joanleon.dev/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nucliweb/extract-critical-css/issues"
+  },
+  "homepage": "https://github.com/nucliweb/extract-critical-css#readme",
+  "dependencies": {
+    "crittr": "^1.5.0-beta.1",
+    "yargs": "^17.5.1"
+  }
+}
